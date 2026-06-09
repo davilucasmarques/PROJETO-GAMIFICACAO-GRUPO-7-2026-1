@@ -16,3 +16,6 @@ Teorema de Pitágoras, razões trigonométricas fundamentais (seno, cosseno e
 tangente) e resolução de triângulos quaisquer por meio da Lei dos Senos e da Lei dos 
 Cossenos, em conformidade com as habilidades previstas pela Base Nacional Comum 
 Curricular (BNCC).
+
+
+INTEGRANTES: DAVI LUCAS MARQUES LINHARES, IAN LINS VIEIRA, JOÃO GUILHERME ALMEIDA DA SILVA, JOÃO VICTOR DE OLIVEIRA PINEL, LUCAS COSTA SANTANA, LUCAS VINHA ORTEGA, MOISES MUNIZ DA SILVA E SILVA.
